@@ -7,20 +7,41 @@
 
 <br>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/15cff6ef-9b68-46e3-b848-51089f4063aa" width="500">
-  <img src="https://github.com/user-attachments/assets/9ae6ace6-11d9-43b9-b6ef-db7e646bb78e" width="500">
-  <img src="https://github.com/user-attachments/assets/78d904b7-e674-44a4-a4e3-93db134d16cd" width="500">
-  <img src="https://github.com/user-attachments/assets/9d552b35-55eb-43c1-9e8f-a946337e1efe" width="500">
-  <img src="https://github.com/user-attachments/assets/7e29f6bc-374c-428a-b99f-0f8c6022f8b6" width="500">
-  <img src="https://github.com/user-attachments/assets/c43fe50b-aec6-42bf-b412-d7a32b2da1c1" width="500">
+  <img src="https://github.com/user-attachments/assets/15cff6ef-9b68-46e3-b848-51089f4063aa" width="333"> 
+  <img src="https://github.com/user-attachments/assets/5c8c3c12-f214-4997-b8c7-fd68fe94072c" width="333">
+  <img src="https://github.com/user-attachments/assets/5c8c3c12-f214-4997-b8c7-fd68fe94072c" width="333">
+  <img src="https://github.com/user-attachments/assets/15cff6ef-9b68-46e3-b848-51089f4063aa" width="333"> 
+  <img src="https://github.com/user-attachments/assets/5c8c3c12-f214-4997-b8c7-fd68fe94072c" width="333">
+  <img src="https://github.com/user-attachments/assets/5c8c3c12-f214-4997-b8c7-fd68fe94072c" width="333">
+
   <b>Figure 1 : *xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx<b></b>
 </p>
 
 <br>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/44b827c3-5163-43e1-8df6-438fd0294ab1" width="1000">
-   **Figur 2 : *xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx**
+  <img src="https://github.com/user-attachments/assets/44b827c3-5163-43e1-8df6-438fd0294ab1" width="750"><br>
+  <b>Figure 2 : *xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx<b></b>
 </p>
+     
+<p> 
+  Question : ช่วงวิกฤตเศรษฐกิจในแต่ละสินทรัพย์มีผลกระทบอย่างไร ?
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f6f11712-41cb-4793-99d1-6a00ae8f2691" width="500"><br>
+  <img src="https://github.com/user-attachments/assets/f6f11712-41cb-4793-99d1-6a00ae8f2691" width="500"><br>
+  <img src="https://github.com/user-attachments/assets/f6f11712-41cb-4793-99d1-6a00ae8f2691" width="500"><br>
+  <img src="https://github.com/user-attachments/assets/f6f11712-41cb-4793-99d1-6a00ae8f2691" width="500"><br>
+  <img src="https://github.com/user-attachments/assets/f6f11712-41cb-4793-99d1-6a00ae8f2691" width="500"><br>
+  <img src="https://github.com/user-attachments/assets/f6f11712-41cb-4793-99d1-6a00ae8f2691" width="500"><br>
+  <img src="https://github.com/user-attachments/assets/f6f11712-41cb-4793-99d1-6a00ae8f2691" width="500"><br>
+  <img src="https://github.com/user-attachments/assets/f6f11712-41cb-4793-99d1-6a00ae8f2691" width="500"><br>
+   <b>Figure 3 : *xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx<b></b>
+</p>
+
+
+
+
 
 
 
