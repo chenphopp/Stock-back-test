@@ -9,7 +9,7 @@
 
 <br>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/44b827c3-5163-43e1-8df6-438fd0294ab1" width="750"><br>
+  <img src="https://github.com/user-attachments/assets/44b827c3-5163-43e1-8df6-438fd0294ab1" width="500"><br>
   <b>Figure 2 : *xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx<b></b>
 </p>
      
