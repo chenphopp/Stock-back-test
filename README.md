@@ -5,7 +5,11 @@
 #### เปรียบเทียบการเติบโตของแต่ละสินทรัพย์ ตั้งแต่ปึ ค.ศ. 1995 ถึง 2025
 เราจะพิจารณาการเติบโตของราคาสินทรัพย์หลากหลายประเภท ได้แก่ SET Index, Nasdaq 100, S&P 500, ทองคำ, บิตคอยน์, อัตราผลตอบแทนพันธบัตร และเงินฝากออมทรัพย์ ซึ่งการเลือกสินทรัพย์เหล่านี้ไม่เพียงแต่สะท้อนถึงความหลากหลายของตลาดการเงิน แต่ยังช่วยให้เราเข้าใจแนวโน้มการลงทุนและโอกาสในการสร้างความมั่งคั่งในอนาคตได้ดียิ่งขึ้น
 
-![image](https://github.com/user-attachments/assets/05f69bb8-4cdf-42ba-ab1b-fa26a3577085)
+
+<p align="center">
+  <img src="[https://github.com/user-attachments/assets/44b827c3-5163-43e1-8df6-438fd0294ab1](https://github.com/user-attachments/assets/05f69bb8-4cdf-42ba-ab1b-fa26a3577085)" width="500"><br>
+  <b>Figure 2 : *xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx<b></b>
+</p>
 
 <br>
 <p align="center">
