@@ -5,17 +5,9 @@
 #### เปรียบเทียบการเติบโตของแต่ละสินทรัพย์ ตั้งแต่ปึ ค.ศ. 1995 ถึง 2025
 เราจะพิจารณาการเติบโตของราคาสินทรัพย์หลากหลายประเภท ได้แก่ SET Index, Nasdaq 100, S&P 500, ทองคำ, บิตคอยน์, อัตราผลตอบแทนพันธบัตร และเงินฝากออมทรัพย์ ซึ่งการเลือกสินทรัพย์เหล่านี้ไม่เพียงแต่สะท้อนถึงความหลากหลายของตลาดการเงิน แต่ยังช่วยให้เราเข้าใจแนวโน้มการลงทุนและโอกาสในการสร้างความมั่งคั่งในอนาคตได้ดียิ่งขึ้น
 
-<br>
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/15cff6ef-9b68-46e3-b848-51089f4063aa" width="333"> 
-  <img src="https://github.com/user-attachments/assets/5c8c3c12-f214-4997-b8c7-fd68fe94072c" width="333">
-  <img src="https://github.com/user-attachments/assets/5c8c3c12-f214-4997-b8c7-fd68fe94072c" width="333">
-  <img src="https://github.com/user-attachments/assets/15cff6ef-9b68-46e3-b848-51089f4063aa" width="333"> 
-  <img src="https://github.com/user-attachments/assets/5c8c3c12-f214-4997-b8c7-fd68fe94072c" width="333">
-  <img src="https://github.com/user-attachments/assets/5c8c3c12-f214-4997-b8c7-fd68fe94072c" width="333">
+![image](https://github.com/user-attachments/assets/05f69bb8-4cdf-42ba-ab1b-fa26a3577085)
 
-  <b>Figure 1 : *xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx<b></b>
-</p>
+![image](https://github.com/user-attachments/assets/5d18e6c3-3a54-4ebf-9954-b4fd79559bc5)
 
 <br>
 <p align="center">
