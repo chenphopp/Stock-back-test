@@ -38,7 +38,8 @@
 </p>
 
 <p align="center">
-   <img src="https://github.com/user-attachments/assets/7fac88e7-2c20-4f4f-8ecd-88ed7e3371c6](https://github.com/user-attachments/assets/dfc19ce2-9cb9-4e8d-8af1-247829472f44" width="800"><br>
+   <img src="![Unknown-2](https://github.com/user-attachments/assets/57bb109b-3c56-45b0-b9c1-c89290676567)
+" width="800"><br>
    <b>Figure 4 : *xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx<b></b>
 </p>
 
