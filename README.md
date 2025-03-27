@@ -24,6 +24,10 @@
   </tr>
 </table>
 
+<p align="center">
+   <img src="https://github.com/user-attachments/assets/cd48b283-bb63-45a2-a0d3-1a653c02f300" width="800">
+</p>
+
 <p> 
   Question : ช่วงวิกฤตเศรษฐกิจในแต่ละสินทรัพย์มีผลกระทบอย่างไร ?
 </p>
