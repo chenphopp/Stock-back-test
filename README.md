@@ -8,9 +8,7 @@
 
 <table align="center">
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/img1.png" width="300"></td>
-    <td><img src="https://github.com/user-attachments/assets/img2.png" width="300"></td>
-    <td><img src="https://github.com/user-attachments/assets/img3.png" width="300"></td>
+    <td><img src="https://github.com/user-attachments/assets/9821a467-9c99-464e-9945-212bf8168b5e" width="300"></td>
   </tr>
 </table>
 
