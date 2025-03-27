@@ -7,8 +7,8 @@
 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/c384dfd0-857a-4783-844c-a4244aab2a28" width="1000"><br>
-  <b>Figure 1 : *xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx<b></b>
+  <img src="https://github.com/user-attachments/assets/9c62c97f-c6b3-4497-9617-6d5bba8f04c6" width="300" style="margin-right:10px;">
+  <img src="https://github.com/user-attachments/assets/ece339b5-3ac3-4117-ae48-48cb7aa9ffc9" width="300" style="margin-right:10px;">
 </p>
 
      
