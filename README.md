@@ -108,4 +108,47 @@ Overall Percentage Return: 60.12%
   </tr>
 </table>
 
-     
+
+### DCA SET
+📊 Investment Summary
+- Started DCA from: 1995-01-01
+- Ended on: 2025-03-01
+- Total Months: 363
+- Total Invested: 6,050,000.00 THB
+- Portfolio Final Value: 9,609,323.68 THB
+- Total Profit: 3,559,323.68 THB
+- Total Return: 58.83%
+
+### DCA Nasdaq100
+📊 Investment Summary
+- Started DCA from: 1995-01-01
+- Ended on: 2025-03-01
+- Total Months: 363
+- Total Invested: 6,050,000.00 THB
+- Portfolio Final Value: 62,025,682.14 THB
+- Total Profit: 55,975,682.14 THB
+- Total Return: 925.22%
+
+### DCA S&P500
+📊 Investment Summary
+- Started DCA from: 1995-01-01
+- Ended on: 2025-03-01
+- Total Months: 363
+- Total Invested: 6,050,000.00 THB
+- Portfolio Final Value: 25,174,666.19 THB
+- Total Profit: 19,124,666.19 THB
+- Total Return: 316.11%
+
+### DCA Gold
+📊 Investment Summary
+- Started DCA from: 1995-01-01
+- Ended on: 2025-03-01
+- Total Months: 363
+- Total Invested: 6,050,000.00 THB
+- Portfolio Final Value: 29,367,449.05 THB
+- Total Profit: 23,317,449.05 THB
+- Total Return: 385.41%
+
+
+
+
