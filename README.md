@@ -36,40 +36,40 @@
   </tr>
 </table>
 
-#### SET
-Initial Investment: $6,000,000.00
-Final Portfolio Value: $5,253,382.31
-Overall Percentage Return: -12.44%
+### SET
+- Initial Investment: $6,000,000.00
+- Final Portfolio Value: $5,253,382.31
+- Overall Percentage Return: -12.44%
 
-#### Nasdaq100
-Initial Investment: $6,000,000.00
-Final Portfolio Value: $298,940,442.55
-Overall Percentage Return: 4882.34%
+### Nasdaq100
+- Initial Investment: $6,000,000.00
+- Final Portfolio Value: $298,940,442.55
+- Overall Percentage Return: 4882.34%
 
-#### S&P500
-Initial Investment: $6,000,000.00
-Final Portfolio Value: $75,262,332.67
-Overall Percentage Return: 1154.37%
+### S&P500
+- Initial Investment: $6,000,000.00
+- Final Portfolio Value: $75,262,332.67
+- Overall Percentage Return: 1154.37%
 
-#### Gold Future
-Initial Investment: $6,000,000.00
-Final Portfolio Value: $47,182,781.74
-Overall Percentage Return: 686.38%
+### Gold Future
+- Initial Investment: $6,000,000.00
+- Final Portfolio Value: $47,182,781.74
+- Overall Percentage Return: 686.38%
 
-#### Bitcoin
-Initial Investment: $6,000,000.00
-Final Portfolio Value: $7,397,355,818,364.54
-Overall Percentage Return: 123289163.64%
+### Bitcoin
+- Initial Investment: $6,000,000.00
+- Final Portfolio Value: $7,397,355,818,364.54
+- Overall Percentage Return: 123289163.64%
 
-#### US Bond Yield
-Initial Investment: $10,000.00
-Final Portfolio Value: $21,318.83
-Overall Percentage Return: 113.19%
+### US Bond Yield
+- Initial Investment: $10,000.00
+- Final Portfolio Value: $21,318.83
+- Overall Percentage Return: 113.19%
 
-#### Bank Saving
-Initial Investment: $10,000.00
-Final Portfolio Value: $16,011.83
-Overall Percentage Return: 60.12%
+### Bank Saving
+- Initial Investment: $10,000.00
+- Final Portfolio Value: $16,011.83
+- Overall Percentage Return: 60.12%
 
 <p> 
   Question : ช่วงวิกฤตเศรษฐกิจในแต่ละสินทรัพย์มีผลกระทบอย่างไร ?
@@ -110,7 +110,6 @@ Overall Percentage Return: 60.12%
 
 
 ### DCA SET
-📊 Investment Summary
 - Started DCA from: 1995-01-01
 - Ended on: 2025-03-01
 - Total Months: 363
@@ -120,7 +119,6 @@ Overall Percentage Return: 60.12%
 - Total Return: 58.83%
 
 ### DCA Nasdaq100
-📊 Investment Summary
 - Started DCA from: 1995-01-01
 - Ended on: 2025-03-01
 - Total Months: 363
@@ -130,7 +128,6 @@ Overall Percentage Return: 60.12%
 - Total Return: 925.22%
 
 ### DCA S&P500
-📊 Investment Summary
 - Started DCA from: 1995-01-01
 - Ended on: 2025-03-01
 - Total Months: 363
@@ -140,7 +137,6 @@ Overall Percentage Return: 60.12%
 - Total Return: 316.11%
 
 ### DCA Gold
-📊 Investment Summary
 - Started DCA from: 1995-01-01
 - Ended on: 2025-03-01
 - Total Months: 363
