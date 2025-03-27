@@ -50,4 +50,15 @@
    <b>Figure 4 : *xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx<b></b>
 </p>
 
+<table align="center">
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/b39d65df-d1ab-4dbe-abaa-1d38b9dd8418" width="500"></td>
+    <td><img src="https://github.com/user-attachments/assets/d528e9d8-726c-47ae-a27e-5331aa6d9055" width="500"></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/c288277e-e7cb-42be-a75f-aee334bcfe83" width="500"></td>
+    <td><img src="https://github.com/user-attachments/assets/60ea838d-de7f-4c36-984e-06690462ad4e" width="500"></td>
+  </tr>
+</table>
+
      
