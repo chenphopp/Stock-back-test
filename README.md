@@ -6,11 +6,13 @@
 เราจะพิจารณาการเติบโตของราคาสินทรัพย์หลากหลายประเภท ได้แก่ SET Index, Nasdaq 100, S&P 500, ทองคำ, บิตคอยน์, อัตราผลตอบแทนพันธบัตร และเงินฝากออมทรัพย์ ซึ่งการเลือกสินทรัพย์เหล่านี้ไม่เพียงแต่สะท้อนถึงความหลากหลายของตลาดการเงิน แต่ยังช่วยให้เราเข้าใจแนวโน้มการลงทุนและโอกาสในการสร้างความมั่งคั่งในอนาคตได้ดียิ่งขึ้น
 
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/9c62c97f-c6b3-4497-9617-6d5bba8f04c6" width="300" style="margin-right:10px;">
-  <img src="https://github.com/user-attachments/assets/ece339b5-3ac3-4117-ae48-48cb7aa9ffc9" width="300" style="margin-right:10px;">
-  <img src="https://github.com/user-attachments/assets/f0b24bb3-d508-4d29-b336-15267cd12603" width="300">
-</p>
+<table align="center">
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/img1.png" width="300"></td>
+    <td><img src="https://github.com/user-attachments/assets/img2.png" width="300"></td>
+    <td><img src="https://github.com/user-attachments/assets/img3.png" width="300"></td>
+  </tr>
+</table>
 
      
 <p> 
