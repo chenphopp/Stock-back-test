@@ -35,6 +35,11 @@
   </tr>
 </table>
 
+## SET
+Initial Investment: $6,000,000.00
+Final Portfolio Value: $5,253,382.31
+Overall Percentage Return: -12.44%
+
 <p> 
   Question : ช่วงวิกฤตเศรษฐกิจในแต่ละสินทรัพย์มีผลกระทบอย่างไร ?
 </p>
