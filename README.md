@@ -15,7 +15,7 @@
   <tr>
     <td><img src="https://github.com/user-attachments/assets/95c3fed8-588b-4c81-8c33-882616fc64d7" width="500"></td>
     <td><img src="https://github.com/user-attachments/assets/a03079ff-96dd-4060-9122-0ecc2cb35f19" width="500"></td>
-    <td><img src="https://github.com/user-attachments/assets/e92eb21a-4e2e-48b7-8e88-02d70f872735" width="500"></td>
+    <td><img src="(https://github.com/user-attachments/assets/369d0424-249f-409d-8063-a0207680007a" width="500"></td>
   </tr>
   <tr>
     <td></td>
