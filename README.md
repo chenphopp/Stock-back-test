@@ -149,14 +149,24 @@
    <b>Figure 9 : Return Correlation <b></b>
 </p>
 
+
+<table align="center">
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/e0432603-b43b-47f7-80d1-d781d719b36b" width="500"></td>
+    <td><img src="" width="500"></td>
+    <td><img src="" width="500"></td>
+    <b>Figure 10 : Growth Rate Comparision  <b></b>
+  </tr>
+  
 <p align="center">
-   <img src="https://github.com/user-attachments/assets/e0432603-b43b-47f7-80d1-d781d719b36b" width="800"><br>
+
    <b>Figure 10 : Growth Rate Comparision  <b></b>
 </p>
 
 
 ## หากเรา Dollar Cost Average (DCA) ในแต่ละสินทรัพย์จะให้ผลตอบแทนเท่าไหร่...
 DCA ตั้งแต่เดือนมกราคม ปี 1995 ถึง มีนาคม ปี 2025 เป็นจำนวนเงินเดือนละประมาณ 16,666 บาท จะใช้เงินทั้งหมดในการลงทุนประมาณ 6,000,000 บาท
+
 
 <table align="center">
   <tr>
