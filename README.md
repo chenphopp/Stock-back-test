@@ -35,7 +35,7 @@
 </table>
 
 ### performance
-SET Index - Overall Percentage Return: -12.44%
+- SET Index : Overall Percentage Return: -12.44%
 Nasdaq100 - Overall Percentage Return: 4,882.34%
 S&P500 - Overall Percentage Return: 1154.37%
 Gold Future - Overall Percentage Return: 686.38%
