@@ -36,12 +36,12 @@
 
 ### performance
 - SET Index : Overall Percentage Return: -12.44%
-Nasdaq100 - Overall Percentage Return: 4,882.34%
-S&P500 - Overall Percentage Return: 1154.37%
-Gold Future - Overall Percentage Return: 686.38%
-Bitcoin - Overall Percentage Return: 123,289,163.64%
-US Bond Yield - Overall Percentage Return: 113.19%
-Bank Saving - Overall Percentage Return: 60.12%
+- Nasdaq100 : Overall Percentage Return: 4,882.34%
+- S&P500 : Overall Percentage Return: 1154.37%
+- Gold Future : Overall Percentage Return: 686.38%
+- Bitcoin : Overall Percentage Return: 123,289,163.64%
+- US Bond Yield : Overall Percentage Return: 113.19%
+- Bank Saving :  Overall Percentage Return: 60.12%
 
 ### วิกฤตทางการเงินของโลกตั้งแต่ปี 1995
 
