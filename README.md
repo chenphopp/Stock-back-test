@@ -125,9 +125,10 @@
 ### อัตราการหดตัวของสินทรัพย์ในแต่ละวิกฤต
 
 <p align="center">
-   <img src="https://github.com/user-attachments/assets/1851c36b-4bdf-4fc6-9576-de01dba2567d" width="800"><br>
+   <img src="https://github.com/user-attachments/assets/86065804-25c9-4f8e-acd6-a96b4c959461" width="800"><br>
    <b>Figure 4 : *xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx<b></b>
 </p>
+
 
 <p align="center">
    <img src="https://github.com/user-attachments/assets/57bb109b-3c56-45b0-b9c1-c89290676567" width="800"><br>
