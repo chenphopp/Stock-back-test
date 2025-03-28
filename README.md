@@ -143,7 +143,10 @@
    <img src="https://github.com/user-attachments/assets/8cd7c1f6-0366-43af-8973-2d564b7b8fe8" width="800"><br>
    <b>Figure 5 : *xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx<b></b>
 </p>
-     
+
+## หากเรา Dollar Cost Average (DCA) ในแต่ละสินทรัพย์จะให้ผลตอบแทนเท่าไหร่...
+DCA ตั้งแต่เดือนมกราคม ปี 1995 ถึง มีนาคม ปี 2025 เป็นจำนวนเงินเดือนละประมาณ 16,666 บาท จะใช้เงินทั้งหมดในการลงทุนประมาณ 6,000,000 บาท
+
 <table align="center">
   <tr>
     <td><img src="https://github.com/user-attachments/assets/b39d65df-d1ab-4dbe-abaa-1d38b9dd8418" width="500"></td>
@@ -155,39 +158,22 @@
   </tr>
 </table>
 
-
 ### DCA SET
-- Started DCA from: 1995-01-01
-- Ended on: 2025-03-01
-- Total Months: 363
-- Total Invested: 6,050,000.00 THB
 - Portfolio Final Value: 9,609,323.68 THB
 - Total Profit: 3,559,323.68 THB
 - Total Return: 58.83%
 
 ### DCA Nasdaq100
-- Started DCA from: 1995-01-01
-- Ended on: 2025-03-01
-- Total Months: 363
-- Total Invested: 6,050,000.00 THB
 - Portfolio Final Value: 62,025,682.14 THB
 - Total Profit: 55,975,682.14 THB
 - Total Return: 925.22%
 
 ### DCA S&P500
-- Started DCA from: 1995-01-01
-- Ended on: 2025-03-01
-- Total Months: 363
-- Total Invested: 6,050,000.00 THB
 - Portfolio Final Value: 25,174,666.19 THB
 - Total Profit: 19,124,666.19 THB
 - Total Return: 316.11%
 
 ### DCA Gold
-- Started DCA from: 1995-01-01
-- Ended on: 2025-03-01
-- Total Months: 363
-- Total Invested: 6,050,000.00 THB
 - Portfolio Final Value: 29,367,449.05 THB
 - Total Profit: 23,317,449.05 THB
 - Total Return: 385.41%
