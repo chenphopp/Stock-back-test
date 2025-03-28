@@ -85,7 +85,7 @@
 </p>
 
 <p align="center">
-   <img src="https://github.com/user-attachments/assets/7fac88e7-2c20-4f4f-8ecd-88ed7e3371c6" width="800"><br>
+   <img src="https://github.com/user-attachments/assets/1851c36b-4bdf-4fc6-9576-de01dba2567d" width="800"><br>
    <b>Figure 4 : *xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx<b></b>
 </p>
 
