@@ -155,8 +155,9 @@
     <td><img src="https://github.com/user-attachments/assets/e0432603-b43b-47f7-80d1-d781d719b36b" width="500"></td>
     <td><img src="https://github.com/user-attachments/assets/e0432603-b43b-47f7-80d1-d781d719b36b" width="500"></td>
     <td><img src="https://github.com/user-attachments/assets/e0432603-b43b-47f7-80d1-d781d719b36b" width="500"></td>
-    <b>Figure 10 : Growth Rate Comparision  <b></b>
+    <b>Figure 10 : Growth Rate Comparision</b>
   </tr>
+</table>
   
 <p align="center">
 
