@@ -34,7 +34,7 @@
   </tr>
 </table>
 
-### performance
+### Performance
 - SET Index : Overall Percentage Return: -12.44%
 - Nasdaq100 : Overall Percentage Return: 4,882.34%
 - S&P500 : Overall Percentage Return: 1154.37%
