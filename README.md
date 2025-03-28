@@ -33,6 +33,9 @@
     <td></td>
   </tr>
 </table>
+<p align="center">
+   <b>Figure 1 : Assets <b></b>
+  </p>
 
 ### Performance
 - SET Index : Overall Percentage Return: -12.44%
@@ -67,7 +70,7 @@
 
 <p align="center">
    <img src="https://github.com/user-attachments/assets/e7420615-4365-4a34-be51-a7d89132b875" width="800"><br>
-   <b>Figure 3 : *xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx<b></b>
+   <b>Figure 2 : World Crisis SET Index <b></b>
   </p>
      
 ##### SET Index (ตลาดหุ้นไทย)
@@ -82,7 +85,7 @@
 
 <p align="center">
    <img src="https://github.com/user-attachments/assets/aa52d737-dfc9-4233-9796-e2626551562a" width="800"><br>
-   <b>Figure 3 : *xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx<b></b>
+   <b>Figure 3 : World Crisis NASDAQ <b></b>
 </p>
 
 ##### NASDAQ 100 (หุ้นเทคโนโลยีสหรัฐฯ)
@@ -95,7 +98,7 @@
 
 <p align="center">
    <img src="https://github.com/user-attachments/assets/fe9aae2c-b1a4-4602-a32c-14126c2403c1" width="800"><br>
-   <b>Figure 3 : *xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx<b></b>
+   <b>Figure 4 : World Crisis S&P500 <b></b>
 </p>
 
 #### S&P 500 (ตลาดหุ้นสหรัฐฯ – หุ้นใหญ่)
@@ -110,7 +113,7 @@
 
 <p align="center">
    <img src="https://github.com/user-attachments/assets/30a7672a-12a8-4c88-8115-28517345fcd9" width="800"><br>
-   <b>Figure 3 : *xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx<b></b>
+   <b>Figure 5 : World Crisis Gold <b></b>
 </p>
 
 #### GOLD (ทองคำ)
@@ -126,24 +129,31 @@
 
 <p align="center">
    <img src="https://github.com/user-attachments/assets/86065804-25c9-4f8e-acd6-a96b4c959461" width="800"><br>
-   <b>Figure 4 : *xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx<b></b>
+   <b>Figure 6 : อัตราการหดตัวของสินทรัพย์ในแต่ละวิกฤต<b></b>
 </p>
 
-
-<p align="center">
-   <img src="https://github.com/user-attachments/assets/57bb109b-3c56-45b0-b9c1-c89290676567" width="800"><br>
-   <b>Figure 5 : *xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx<b></b>
-</p>
 
 <p align="center">
    <img src="https://github.com/user-attachments/assets/fb5fc757-5c14-4279-b191-2e29f5960670" width="800"><br>
-   <b>Figure 5 : *xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx<b></b>
+   <b>Figure 7 : Anual Risk/Return x<b></b>
 </p>
 
 <p align="center">
    <img src="https://github.com/user-attachments/assets/8cd7c1f6-0366-43af-8973-2d564b7b8fe8" width="800"><br>
-   <b>Figure 5 : *xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx<b></b>
+   <b>Figure 8 : Return Correlation <b></b>
 </p>
+
+
+<p align="center">
+   <img src="https://github.com/user-attachments/assets/8cd7c1f6-0366-43af-8973-2d564b7b8fe8" width="800"><br>
+   <b>Figure 9 : Return Correlation <b></b>
+</p>
+
+<p align="center">
+   <img src="https://github.com/user-attachments/assets/e0432603-b43b-47f7-80d1-d781d719b36b" width="800"><br>
+   <b>Figure 10 : Growth Rate Comparision  <b></b>
+</p>
+
 
 ## หากเรา Dollar Cost Average (DCA) ในแต่ละสินทรัพย์จะให้ผลตอบแทนเท่าไหร่...
 DCA ตั้งแต่เดือนมกราคม ปี 1995 ถึง มีนาคม ปี 2025 เป็นจำนวนเงินเดือนละประมาณ 16,666 บาท จะใช้เงินทั้งหมดในการลงทุนประมาณ 6,000,000 บาท
