@@ -159,13 +159,6 @@
    <b>Figure 8 : Return Correlation <b></b>
 </p>
 
-
-<p align="center">
-   <img src="https://github.com/user-attachments/assets/8cd7c1f6-0366-43af-8973-2d564b7b8fe8" width="800"><br>
-   <b>Figure 9 : Return Correlation <b></b>
-</p>
-
-
 <table align="center">
   <tr>
     <td><img src="https://github.com/user-attachments/assets/e0432603-b43b-47f7-80d1-d781d719b36b" width="500"></td>
