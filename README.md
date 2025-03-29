@@ -318,11 +318,11 @@
 
 <table align="center">
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/924856e6-3abe-4fe4-b35a-9eb91105ad3b" width="800"></td>
+    <td><img src="https://github.com/user-attachments/assets/924856e6-3abe-4fe4-b35a-9eb91105ad3b" width="1000"></td>
   </tr>
   <tr>
     <td><img src="https://github.com/user-attachments/assets/ff07a523-be03-4356-bc8a-44396858d7a2" width="800"></td>
-    <td><img src="https://github.com/user-attachments/assets/0ac59a7f-bc08-4cbe-ad2e-c3c8e9cd7ff4" width="500"></td>
+    <td><img src="https://github.com/user-attachments/assets/0ac59a7f-bc08-4cbe-ad2e-c3c8e9cd7ff4" width="800"></td>
   </tr>
 </table>
 
