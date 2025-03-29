@@ -255,17 +255,17 @@ MDD บอกว่าในช่วงเวลาที่แย่ที่�
 ### ขั้นตอนการคำนวณ 
 ### ขั้นตอนที่ 1 หาจุดสูงสุดสะสมของราคาสินทรัพย์ <br>
   <p align="center">
-   <img src="https://github.com/user-attachments/assets/81ebce40-d5ed-468a-adaf-63ba25868cdb" width="250">
+   <img src="https://github.com/user-attachments/assets/81ebce40-d5ed-468a-adaf-63ba25868cdb" width="200">
   </p>
   
 ### ขั้นตอนที่ 2 คำนวณ Drawdown ในแต่ละช่วง <br>
  <p align="center">
-   <img src="https://github.com/user-attachments/assets/4550f027-55ff-4144-8581-6742f84ae8e9" width="300">
+   <img src="https://github.com/user-attachments/assets/4550f027-55ff-4144-8581-6742f84ae8e9" width="200">
   </p>
   
 ### ขั้นตอนที่ 3 หา Maximum Drawdown <br>
 <p align="center">
-   <img src="https://github.com/user-attachments/assets/7e93e16e-b0fe-4100-bdd0-0f3da1da5799" width="300">
+   <img src="https://github.com/user-attachments/assets/7e93e16e-b0fe-4100-bdd0-0f3da1da5799" width="200">
 </p>
 <p>
    Note : ค่า MDD เป็นค่าลบ แต่เรามักจะแสดงเป็นค่า Absolute (บวก)
