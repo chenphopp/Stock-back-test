@@ -410,6 +410,7 @@ Lumpsum สามารถคำนวณได้โดยสมการต่
 <table align="center">
   <tr>
     <td><img src="https://github.com/user-attachments/assets/253be1ac-1f87-42d2-ac28-e9d9f72ad08a" width="500" ></td>
+    <td><img src="https://github.com/user-attachments/assets/d41629cf-2d1f-467c-8f23-15924f0c8fd" width="500" ></td>
   </tr>
 </table>
 
