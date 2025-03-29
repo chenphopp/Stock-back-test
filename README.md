@@ -238,7 +238,7 @@
 <table align="center">
   <tr>
     <td><img src="https://github.com/user-attachments/assets/5e17fdf6-7e30-41c5-9161-270a60996c1d" width="800"></td>
-    <td><img src="https://github.com/user-attachments/assets/23c4a497-1a23-46d0-b547-37a98678e18c" width="800"></td>
+    <td><img src="https://github.com/user-attachments/assets/23c4a497-1a23-46d0-b547-37a98678e18c" width="600"></td>
   </tr>
 </table>
 
@@ -273,15 +273,14 @@ MDD บอกว่าในช่วงเวลาที่แย่ที่�
 
 <table align="center">
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/5e17fdf6-7e30-41c5-9161-270a60996c1d](https://github.com/user-attachments/assets/cb96ed6b-afb9-48ef-9c6b-b2f43279eeb3" width="800"></td>
-    <td><img src="https://github.com/user-attachments/assets/23c4a497-1a23-46d0-b547-37a98678e18c](https://github.com/user-attachments/assets/381ea45d-303b-4055-bab1-c38d251d6d58" width="800"></td>
+    <td><img src="https://github.com/user-attachments/assets/b402038b-3b90-4252-af40-e438c6b1f501" width="800"></td>
+    <td><img src="https://github.com/user-attachments/assets/fb1b1282-aab1-459c-84bb-619121049c3a" width="500"></td>
   </tr>
 </table>
 
 <p align="center">
    <b>Figure 10 : Maximun Drawdown Comparision <b></b>
   </p>
-
 
 📌 การตีความ:
 ค่า MDD ต่ำ หมายถึงสินทรัพย์มีช่วงขาดทุนที่เล็ก
