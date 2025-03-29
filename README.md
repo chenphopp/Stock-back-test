@@ -185,9 +185,10 @@
 ---
 
 <p align="center">
-   <img src="https://github.com/user-attachments/assets/15e3f5a0-0199-4b27-a2c3-6e7575583e24" width="800"><br>
+   <img src="https://github.com/user-attachments/assets/b86edc76-8818-4e23-aade-dd7cd33e6285" width="800"><br>
    <b>Figure 6 : อัตราการหดตัวของสินทรัพย์ในแต่ละวิกฤต<b></b>
 </p>
+
 
 ### Annual Risk / Return
 #### Return (ผลตอบแทน)
