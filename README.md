@@ -323,7 +323,7 @@
     </td>
   </tr>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/9b25e03e-e7bf-42f5-83e6-436201dd087e" width="800"></td>
+    <td><img src="https://github.com/user-attachments/assets/616e4684-d393-4391-9147-ed58f1ee94c3" width="800"></td>
     <td><img src="https://github.com/user-attachments/assets/0ac59a7f-bc08-4cbe-ad2e-c3c8e9cd7ff4" width="800"></td>
   </tr>
 </table>
