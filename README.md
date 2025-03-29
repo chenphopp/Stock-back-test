@@ -443,6 +443,11 @@ Lumpsum สามารถคำนวณได้โดยสมการต่
 
 ## 📈 กราฟ: ราคาหุ้น + ปันผลที่นำไปลงทุนใหม่
 
-
+<table align="center">
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/517db574-4b69-4927-a64a-48f68d70daa6" width="500"></td>
+    <td><img src="https://github.com/user-attachments/assets/ee370908-a87e-49ae-90d2-45483bf500c0" width="500"></td>
+  </tr>
+</table>
 
 
