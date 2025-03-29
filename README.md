@@ -436,6 +436,13 @@ Lumpsum สามารถคำนวณได้โดยสมการต่
   </tr>
 </table>
 
+<table align="center">
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/9635b0b1-b22c-41e3-8f73-7bb809bf3ab2" width="400">  
+    </td>
+  </tr>
+</table>
+
 ---
 
 - สินทรัพย์เช่น Nasdaq 100, S&P 500 และ Gold จะให้ผลตอบแทนสูงกว่า DCA อย่างมีนัยสำคัญ  
