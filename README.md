@@ -405,9 +405,11 @@ Lumpsum สามารถคำนวณได้โดยสมการต่
 | 🇺🇸 S&P 500 | 75,262,000 THB | +69,262,000 | **+1,154.37%** |
 | 🟡 Gold | 46,182,800 THB | +40,182,800 | **+686.38%** |
 
+---
+
 <table align="center">
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/253be1ac-1f87-42d2-ac28-e9d9f72ad08a" </td>
+    <td><img src="https://github.com/user-attachments/assets/253be1ac-1f87-42d2-ac28-e9d9f72ad08a" width="500" ></td>
   </tr>
 </table>
 
