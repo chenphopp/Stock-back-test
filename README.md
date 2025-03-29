@@ -371,19 +371,6 @@ Dollar Cost Averate สามารถคำนวณได้โดยสมก
 - จำนวนเงินลงทุน: **16,666 บาท/เดือน**
 - เงินลงทุนรวมตลอด 30 ปี: **~6,000,000 บาท**
 
-<table align="center">
-  <tr>
-    <td><img src="https://github.com/user-attachments/assets/b39d65df-d1ab-4dbe-abaa-1d38b9dd8418" width="500"></td>
-    <td><img src="https://github.com/user-attachments/assets/d528e9d8-726c-47ae-a27e-5331aa6d9055" width="500"></td>
-  </tr>
-  <tr>
-    <td><img src="https://github.com/user-attachments/assets/c288277e-e7cb-42be-a75f-aee334bcfe83" width="500"></td>
-    <td><img src="https://github.com/user-attachments/assets/60ea838d-de7f-4c36-984e-06690462ad4e" width="500"></td>
-  </tr>
-</table>
-
----
-
 ## 📈 ผลลัพธ์จาก DCA ในแต่ละสินทรัพย์
 
 | สินทรัพย์ | มูลค่าพอร์ตสุดท้าย (THB) | กำไรรวม (THB) | ผลตอบแทนรวม |
@@ -418,9 +405,26 @@ Lumpsum สามารถคำนวณได้โดยสมการต่
 | 🇺🇸 S&P 500 | 75,262,000 THB | +69,262,000 | **+1,154.37%** |
 | 🟡 Gold | 46,182,800 THB | +40,182,800 | **+686.38%** |
 
-<img width="396" alt="image" src="https://github.com/user-attachments/assets/253be1ac-1f87-42d2-ac28-e9d9f72ad08a"/>
+<table align="center">
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/253be1ac-1f87-42d2-ac28-e9d9f72ad08a" </td>
+  </tr>
+</table>
 
 ## เปรียบเทียบ DCA กับ Lumpsum
+
+<table align="center">
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/b39d65df-d1ab-4dbe-abaa-1d38b9dd8418" width="500"></td>
+    <td><img src="https://github.com/user-attachments/assets/d528e9d8-726c-47ae-a27e-5331aa6d9055" width="500"></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/c288277e-e7cb-42be-a75f-aee334bcfe83" width="500"></td>
+    <td><img src="https://github.com/user-attachments/assets/60ea838d-de7f-4c36-984e-06690462ad4e" width="500"></td>
+  </tr>
+</table>
+
+---
 
 - สินทรัพย์เช่น Nasdaq 100, S&P 500 และ Gold จะให้ผลตอบแทนสูงกว่า DCA อย่างมีนัยสำคัญ  
 - ขณะที่ SET Index แบบ Lump Sum จะ **ขาดทุน** แต่การใช้ DCA ยังพอช่วยให้ได้กำไร
