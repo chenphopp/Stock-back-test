@@ -267,13 +267,12 @@ MDD บอกว่าในช่วงเวลาที่แย่ที่�
 <p align="center">
    <img src="https://github.com/user-attachments/assets/7e93e16e-b0fe-4100-bdd0-0f3da1da5799" width="300">
 </p>
-Note : ค่า MDD เป็นค่าลบ แต่เรามักจะแสดงเป็นค่า Absolute (บวก) 
+Note : ค่า MDD เป็นค่าลบ แต่เรามักจะแสดงเป็นค่า Absolute (บวก) <br> 
 
-<br>
 <table align="center">
   <tr>
     <td><img src="https://github.com/user-attachments/assets/5e17fdf6-7e30-41c5-9161-270a60996c1d](https://github.com/user-attachments/assets/cb96ed6b-afb9-48ef-9c6b-b2f43279eeb3" width="800"></td>
-    <td><img src="https://github.com/user-attachments/assets/23c4a497-1a23-46d0-b547-37a98678e18c](https://github.com/user-attachments/assets/381ea45d-303b-4055-bab1-c38d251d6d58)" width="800"></td>
+    <td><img src="https://github.com/user-attachments/assets/23c4a497-1a23-46d0-b547-37a98678e18c](https://github.com/user-attachments/assets/381ea45d-303b-4055-bab1-c38d251d6d58" width="800"></td>
   </tr>
 </table>
 
