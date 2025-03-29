@@ -387,6 +387,12 @@ Dollar Cost Averate สามารถคำนวณได้โดยสมก
 
 ---
 
+<table align="center">
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/253be1ac-1f87-42d2-ac28-e9d9f72ad08a" width="500"></td>
+    <td><img src="https://github.com/user-attachments/assets/b1320536-25bf-485e-9586-e45d14c54802" width="500"></td>
+  </tr>
+</table>
 
 
 # 💸 Lumpsum Investment Backtest (1995–2025)
@@ -417,13 +423,6 @@ Lumpsum สามารถคำนวณได้โดยสมการต่
 | 🟡 Gold | 46,182,800 THB | +40,182,800 | **+686.38%** |
 
 ---
-
-<table align="center">
-  <tr>
-    <td><img src="https://github.com/user-attachments/assets/253be1ac-1f87-42d2-ac28-e9d9f72ad08a" width="500"></td>
-    <td><img src="https://github.com/user-attachments/assets/b1320536-25bf-485e-9586-e45d14c54802" width="500"></td>
-  </tr>
-</table>
 
 ## เปรียบเทียบ DCA กับ Lumpsum
 
