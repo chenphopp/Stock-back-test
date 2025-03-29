@@ -316,6 +316,10 @@
 | อาจเป็น High Risk, High Return | แสดง Risk of Ruin|
 | ไม่บอกว่าขาดทุนสูงสุดเท่าไหร่|บอกว่าขาดทุนสูงสุดเท่าไหร่|
 
+สินทรัพย์ที่มี Volatility สูง + MDD สูง → เสี่ยงและขาดทุนหนัก <br>
+
+สินทรัพย์ที่มี Volatility ต่ำ + MDD ต่ำ → เสี่ยงน้อยและขาดทุนน้อย
+
 <table align="center">
   <tr>
     <td colspan="2" align="center">
