@@ -318,8 +318,8 @@ Table 5. ตารางวิกฤตเศรษฐกิจที่มี�
 
 <table align="center">
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/b402038b-3b90-4252-af40-e438c6b1f501" width="800"></td>
-    <td><img src="https://github.com/user-attachments/assets/fb1b1282-aab1-459c-84bb-619121049c3a" width="500"></td>
+    <td><img src="https://github.com/user-attachments/assets/47567a7d-29cb-4fa6-9c60-3230e6f87eb6" width="800"></td>
+    <td><img src="https://github.com/user-attachments/assets/6b731c77-9e6f-4480-b0ef-484b99f06955" width="500"></td>
   </tr>
 </table>
 
@@ -350,12 +350,12 @@ Table 6. ตารางความผันผวน
 <table align="center">
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github.com/user-attachments/assets/924856e6-3abe-4fe4-b35a-9eb91105ad3b" width="800">
+      <img src="https://github.com/user-attachments/assets/7b7fa370-f9c5-432c-a915-8dc40f2ee299" width="800">
     </td>
   </tr>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/616e4684-d393-4391-9147-ed58f1ee94c3" width="800"></td>
-    <td><img src="https://github.com/user-attachments/assets/42b18956-8b7d-4f34-9c2e-d454166606c1" width="800"></td>
+    <td><img src="https://github.com/user-attachments/assets/cc9adea3-af00-4a0c-a1a5-01b2f4bf8193" width="800"></td>
+    <td><img src="https://github.com/user-attachments/assets/0ca23d5a-4a46-487f-a92a-576c02d9db0c" width="800"></td>
   </tr>
 </table>
 
