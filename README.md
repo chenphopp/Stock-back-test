@@ -110,9 +110,10 @@ Table 1. ตารางอัตราผลตอบแทนของแต�
 
 #### SET Index (ตลาดหุ้นไทย)
 <p align="center">
-   <img src="https://github.com/user-attachments/assets/e7420615-4365-4a34-be51-a7d89132b875" width="800"><br>
+   <img src="https://github.com/user-attachments/assets/7da6a66e-b327-4da8-a50e-cea8f8b3083a" width="800"><br>
    <b>Figure 2 : World Crisis SET Index <b></b>
   </p>
+
 
 Table 2. ตารางวิกฤตเศรษฐกิจที่มีผลต่อ SET INDEX   
 | Crisis| Change |
@@ -129,9 +130,10 @@ Table 2. ตารางวิกฤตเศรษฐกิจที่มี�
 
 ##### NASDAQ 100 (หุ้นเทคโนโลยีสหรัฐฯ)
 <p align="center">
-   <img src="https://github.com/user-attachments/assets/aa52d737-dfc9-4233-9796-e2626551562a" width="800"><br>
+   <img src="https://github.com/user-attachments/assets/8eda3dab-5010-4c12-a144-5f499eef98cc" width="800"><br>
    <b>Figure 3 : World Crisis NASDAQ <b></b>
 </p>
+
 
 Table 3. ตารางวิกฤตเศรษฐกิจที่มีผลต่อ NASDAQ100
 | Crisis| Change |
@@ -147,7 +149,7 @@ Table 3. ตารางวิกฤตเศรษฐกิจที่มี�
 
 #### S&P 500 (ตลาดหุ้นสหรัฐฯ – หุ้นใหญ่)
 <p align="center">
-   <img src="https://github.com/user-attachments/assets/fe9aae2c-b1a4-4602-a32c-14126c2403c1" width="800"><br>
+   <img src="https://github.com/user-attachments/assets/9e37a858-8b05-4414-bdb8-62b3c2ff5467" width="800"><br>
    <b>Figure 4 : World Crisis S&P500 <b></b>
 </p>
 
@@ -166,7 +168,7 @@ Table 4. ตารางวิกฤตเศรษฐกิจที่มี�
 
 #### GOLD (ทองคำ)
 <p align="center">
-   <img src="https://github.com/user-attachments/assets/30a7672a-12a8-4c88-8115-28517345fcd9" width="800"><br>
+   <img src="https://github.com/user-attachments/assets/b2c2cbe1-cb65-435c-924a-98911e0c9308" width="800"><br>
    <b>Figure 5 : World Crisis Gold <b></b>
 </p>
 
