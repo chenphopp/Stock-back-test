@@ -191,9 +191,10 @@ Table 5. ตารางวิกฤตเศรษฐกิจที่มี�
 </p>
 
 <p align="center">
-   <img src="https://github.com/user-attachments/assets/f891c6df-14a2-4b43-8423-24c93461dc1d" width="800"><br>
+   <img src="https://github.com/user-attachments/assets/796fe974-e4ed-49f6-90e5-138f9562b7cc" width="800"><br>
    <b>Figure 8 : Recovery Years </b>
 </p>
+
 
 
 📊 SET Index (ตลาดหุ้นไทย)
